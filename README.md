@@ -6,8 +6,6 @@ Using this as a TODO space.
 
 Include recent picture of myself.
 
-Include working links to all Bibtex files.
-
 Decide what to put at the bottom of my page in lieu of ``Service".
 
 Decide if I want to have multiple pages and what pages to have. 
@@ -18,4 +16,6 @@ Include a more formal bio.
 
 Include additional link where I specify my academic heritage.
 
+## Done:
 
+Include working links to all Bibtex files.
