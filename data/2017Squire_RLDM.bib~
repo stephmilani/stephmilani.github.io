@@ -1,0 +1,6 @@
+@inproceedings{Squire2017RAMDP,
+author = {Shawn Squire and John Winder and Matthew Landen and Stephanie Milani and Marie desJardins},
+title = {R-AMDP: Model-Based Learning for Abstract Markov Decision Process Hierarchies},
+booktitle = {},
+year = {2017}
+}
