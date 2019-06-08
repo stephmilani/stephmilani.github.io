@@ -4,6 +4,8 @@ Using this as a TODO space.
 
 ## TODO:
 
+Update and add CV.
+
 Add working links to all papers.
 
 Include recent picture of myself.
