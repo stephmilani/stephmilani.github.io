@@ -14,7 +14,7 @@ Expand my bio a bit more.
 
 Include a more formal bio. 
 
-Include additional link where I specify my academic heritage.
+(Maybe) include additional link where I specify my academic heritage.
 
 ## Done:
 
