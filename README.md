@@ -4,6 +4,8 @@ Using this as a TODO space.
 
 ## TODO:
 
+Add working links to all papers.
+
 Include recent picture of myself.
 
 Decide what to put at the bottom of my page in lieu of ``Service".
