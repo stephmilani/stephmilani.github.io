@@ -6,8 +6,6 @@ Using this as a TODO space.
 
 Update and add CV.
 
-Add working links to all papers.
-
 Include recent picture of myself.
 
 Decide what to put at the bottom of my page in lieu of ``Service".
@@ -21,5 +19,7 @@ Include a more formal bio.
 (Maybe) include additional link where I specify my academic heritage.
 
 ## Done:
+
+Add working links to all papers.
 
 Include working links to all Bibtex files.
