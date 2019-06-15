@@ -4,8 +4,6 @@ Using this as a TODO space.
 
 ## TODO:
 
-Update and add CV.
-
 Include recent picture of myself.
 
 Decide what to put at the bottom of my page in lieu of ``Service".
@@ -23,3 +21,6 @@ Include a more formal bio.
 Add working links to all papers.
 
 Include working links to all Bibtex files.
+
+Update and add CV.
+
