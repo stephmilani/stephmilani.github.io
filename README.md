@@ -6,8 +6,6 @@ Using this as a TODO space.
 
 Include recent picture of myself.
 
-Decide what to put at the bottom of my page in lieu of ``Service".
-
 Decide if I want to have multiple pages and what pages to have. 
 
 Expand my bio a bit more.
@@ -23,4 +21,6 @@ Add working links to all papers.
 Include working links to all Bibtex files.
 
 Update and add CV.
+
+Decide what to put at the bottom of my page in lieu of ``Service".
 
