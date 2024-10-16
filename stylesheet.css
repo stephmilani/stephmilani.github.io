@@ -9,6 +9,13 @@ a:hover {
   text-decoration: none;
 }
 
+.award {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  color: #235789;
+  text-decoration: none;
+}
+
 body,
 td,
 th,
