@@ -5,4 +5,10 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+  <url><loc>https://stephmilani.github.io/publications/decision-relevant-concepts/</loc></url>
+  <url><loc>https://stephmilani.github.io/publications/aligning-agent-policies/</loc></url>
+  <url><loc>https://stephmilani.github.io/publications/licorice/</loc></url>
+  <url><loc>https://stephmilani.github.io/publications/mabl/</loc></url>
+  <url><loc>https://stephmilani.github.io/publications/explainable-rl-survey/</loc></url>
+  <url><loc>https://stephmilani.github.io/publications/bedd/</loc></url>
 </urlset>
